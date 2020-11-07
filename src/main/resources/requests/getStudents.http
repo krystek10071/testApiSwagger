@@ -1,0 +1,7 @@
+
+GET http://localhost:8080/api/students
+Authorization: Basic Przemek Przemek
+
+Accept: application/json
+
+###
